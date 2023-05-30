@@ -1,5 +1,7 @@
 REplace your Username and Password in .ENV file 
-then python main.py 
+then bash setup.sh 
+or 
+python main.py
 EnJoY
 
 (●'◡'●)
